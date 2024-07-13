@@ -2,7 +2,7 @@
 
 # WEATHER-APP 
 To create a simple Weather App that fetches and displays real-time weather information for any location using an external weather API. 
-[PROJECT DEMO] (https://aditya733101.github.io/weather-app/)
+[[PROJECT DEMO](https://aditya733101.github.io/weather-app/)] 
 
 ## Table of Contents
 
